@@ -1,0 +1,2 @@
+2019-12-17 09:37:05,892  INFO [main] (LogUtil.java:22) - no PCANBasic_JNI in java.library.path : null
+2019-12-17 09:37:05,894  INFO [main] (LogUtil.java:22) - 发生异常,连接失败

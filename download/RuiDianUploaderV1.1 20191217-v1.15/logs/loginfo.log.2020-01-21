@@ -1,0 +1,2 @@
+2020-01-21 23:43:38,878  INFO [main] (LogUtil.java:22) - D:\Sunwonda\RuiDianUploaderV1.1 20191217-v1.15\jre\bin\PCANBasic_JNI.dll: 无法成功完成操作，因为文件包含病毒或潜在的垃圾软件。 : null
+2020-01-21 23:43:38,882  INFO [main] (LogUtil.java:22) - 发生异常,连接失败
