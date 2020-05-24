@@ -1,0 +1,59 @@
+#UI Infomation
+MainFrame_TITLE=BMS Online Update Software  V1.4.1
+
+MainFrame_DEVICE_INFO=Device Information
+MainFrame_NUM=No.
+MainFrame_DEVICE_NAME=Device Name
+MainFrame_DEVICE_VERSION=Device Firmware Version
+MainFrame_RUN_STATUS=Working Status
+MainFrame_TEST_DEVICE=List Device
+
+MainFrame_UPLOAD_PROCESS=Updating
+
+MainFrame_UPLOAD_CONTROL=Update Control
+MainFrame_UPLOAD_BCMU=Update the BCMU
+MainFrame_UPLOAD_HVMU=Update the HVMU
+MainFrame_UPLOAD_BMU=Update the BMU
+
+MainFrame_UPLOAD_FILE=Latest Firmware Information
+MainFrame_BCMU_VERSION=Latest Firmware Version of BCMU:
+MainFrame_HVMU_VERSION=Latest Firmware Version of HVMU:
+MainFrame_BMU_VERSION=Latest Firmware Version of BMU:
+
+MainFrame_RESET_MESSAGE=Note: Please check the firmware information of both the charging hub and the charger before use. Click the reset button if the update fails and try again later.
+
+MainFrame_FILE_PARSE_FAIL=Parsing Failure
+MainFrame_FILE_TYPE_ERROR=Incorrect File Type
+
+MainFrame_IN_UPLOADING=Updating
+MainFrame_UNKNOWN=Unknown
+MainFrame_UPLOAD_FAIL=Update Failed
+MainFrame_UPLOAD_MODE=Firmware Update
+MainFrame_WAIT_UPLOAD=Waiting for update
+MainFrame_UPLOAD_SUCCESS=Updating succeeded
+
+MainFrame_UPLOAD_FAIL_MESSAGE=Please double-check: \r\n1. The charging hub is connected to the right side of the charger, and the ports on the left side of the charger is free from buildup. \r\n2.  DO NOT insert the batteries and ensure all the ports are free from buildup and are not blocked.\r\n3. Refer to the Firmware Update Section in the User Guide to retry update when there is power failure or disconnection on the terminals during update.
+MainFrame_UPLOADING=Updating! 
+
+prompting_no_connection_device=There is no connection device, please check if the device has been connected, confirm the connection and try again later.
+prompting_read_configuration_parameters=Read configuration parameters
+prompting_read_failure=Read failure
+prompting_read_success=Read successfully
+prompting_write_failure=Write failure
+prompting_write_parameter=Write parameters
+prompting_write_successfully=Write successfully
+
+MainFrame_update_two_controller=<---these two are for the controller
+MainFrame_update_battery=<--this is the battery
+
+MainFrame_parameter_success=Success
+MainFrame_parameter_failure=Failure
+
+MainFrame_parameter_instruction_summary=Check the number of battery comes with your PSM system before proceed.
+MainFrame_parameter_instruction_detailed=●  Click \"Load\"  button  to read in the current setting\r\n\u25CF  Choose from the dropdown list the correct number of batteries,the new         settings will be listed in the right-hand-side column\r\n\u25CF  Click the \"Update\" button to write in the current setting.
+MainFrame_parameter_additionalInfo=Additional Info
+
+MainFrame_parameter_battery_package_number=Battery package number:
+MainFrame_parameter_voltage_total_number=Voltage total number:
+MainFrame_parameter_temperature_total_number=Temperature total number:
+MainFrame_parameter_working_rating_power=Working rating power:

@@ -1,0 +1,52 @@
+2020-05-20 14:00:37,261  INFO [main] (LogUtil.java:22) - 连接失败
+2020-05-20 14:00:37,261  INFO [main] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 14:00:37,588  INFO [Thread-16] (LogUtil.java:22) - 连接失败
+2020-05-20 14:00:37,588  INFO [Thread-16] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 14:02:03,207  INFO [main] (LogUtil.java:22) - 连接失败
+2020-05-20 14:02:03,207  INFO [main] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 14:02:03,504  INFO [Thread-16] (LogUtil.java:22) - 连接失败
+2020-05-20 14:02:03,504  INFO [Thread-16] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 14:03:15,116  INFO [main] (LogUtil.java:22) - 连接失败
+2020-05-20 14:03:15,116  INFO [main] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 14:03:15,428  INFO [Thread-16] (LogUtil.java:22) - 连接失败
+2020-05-20 14:03:15,428  INFO [Thread-16] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 14:03:50,659  INFO [main] (LogUtil.java:22) - 连接失败
+2020-05-20 14:03:50,659  INFO [main] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 14:03:50,971  INFO [Thread-16] (LogUtil.java:22) - 连接失败
+2020-05-20 14:03:50,971  INFO [Thread-16] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 18:11:40,985  INFO [main] (LogUtil.java:22) - 连接失败
+2020-05-20 18:11:40,985  INFO [main] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 18:11:41,281  INFO [Thread-16] (LogUtil.java:22) - 连接失败
+2020-05-20 18:11:41,281  INFO [Thread-16] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 18:12:52,549  INFO [main] (LogUtil.java:22) - 连接失败
+2020-05-20 18:12:52,549  INFO [main] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 18:12:52,861  INFO [Thread-16] (LogUtil.java:22) - 连接失败
+2020-05-20 18:12:52,861  INFO [Thread-16] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 18:13:22,449  INFO [main] (LogUtil.java:22) - 连接失败
+2020-05-20 18:13:22,449  INFO [main] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 18:13:22,746  INFO [Thread-16] (LogUtil.java:22) - 连接失败
+2020-05-20 18:13:22,746  INFO [Thread-16] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 18:13:31,025  INFO [Thread-19] (LogUtil.java:22) - 连接失败
+2020-05-20 18:13:31,025  INFO [Thread-19] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 18:13:34,561  INFO [main] (LogUtil.java:22) - 连接失败
+2020-05-20 18:13:34,561  INFO [main] (LogUtil.java:22) - 发生异常,连接失败
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:22) - 没有选择端口
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:22) - 发送数据异常：没有选择端口，请选择端口
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:26) - java.lang.RuntimeException: 没有选择端口，请选择端口
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:22) - 没有选择端口
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:22) - 发送数据异常：没有选择端口，请选择端口
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:26) - java.lang.RuntimeException: 没有选择端口，请选择端口
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:22) - 没有选择端口
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:22) - 发送数据异常：没有选择端口，请选择端口
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:26) - java.lang.RuntimeException: 没有选择端口，请选择端口
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:22) - 没有选择端口
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:22) - 发送数据异常：没有选择端口，请选择端口
+2020-05-20 18:13:34,576  INFO [main] (LogUtil.java:26) - java.lang.RuntimeException: 没有选择端口，请选择端口
+2020-05-20 18:13:35,091  INFO [main] (LogUtil.java:22) - 没有选择端口
+2020-05-20 18:13:35,091  INFO [main] (LogUtil.java:22) - 发送数据异常：没有选择端口，请选择端口
+2020-05-20 18:13:35,091  INFO [main] (LogUtil.java:26) - java.lang.RuntimeException: 没有选择端口，请选择端口
+2020-05-20 18:13:35,091  INFO [main] (LogUtil.java:22) - 没有选择端口
+2020-05-20 18:13:35,091  INFO [main] (LogUtil.java:22) - 发送数据异常：没有选择端口，请选择端口
+2020-05-20 18:13:35,091  INFO [main] (LogUtil.java:26) - java.lang.RuntimeException: 没有选择端口，请选择端口
+2020-05-20 18:14:12,344  INFO [main] (LogUtil.java:22) - 连接失败
+2020-05-20 18:14:12,344  INFO [main] (LogUtil.java:22) - 发生异常,连接失败

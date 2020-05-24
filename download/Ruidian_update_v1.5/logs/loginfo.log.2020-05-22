@@ -1,0 +1,4 @@
+2020-05-22 15:26:54,449  INFO [Thread-16] (LogUtil.java:22) - no PCANBasic_JNI in java.library.path : null
+2020-05-22 15:26:54,451  INFO [Thread-16] (LogUtil.java:22) - ????,????
+2020-05-22 15:27:03,227  INFO [Thread-19] (LogUtil.java:22) - Could not initialize class peak.can.basic.PCANBasic : null
+2020-05-22 15:27:03,228  INFO [Thread-19] (LogUtil.java:22) - ????,????

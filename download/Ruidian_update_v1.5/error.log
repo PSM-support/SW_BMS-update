@@ -1,0 +1,25 @@
+BMS Online Update Software  V1.5
+java.lang.UnsatisfiedLinkError: no PCANBasic_JNI in java.library.path
+	at java.lang.ClassLoader.loadLibrary(Unknown Source)
+	at java.lang.Runtime.loadLibrary0(Unknown Source)
+	at java.lang.System.loadLibrary(Unknown Source)
+	at peak.can.basic.PCANBasic.<clinit>(PCANBasic.java:298)
+	at cn.com.modbusmonitor.core.driver.impl.PCanDriver.<init>(PCanDriver.java:36)
+	at cn.com.modbusmonitor.core.driver.factory.PeakDriverFactory.getDriver(PeakDriverFactory.java:22)
+	at user.can.CanDriverAdapterTime.connect(CanDriverAdapterTime.java:218)
+	at cn.com.modbusmonitor.core.service.impl.ModbusDeviceController.connect(ModbusDeviceController.java:664)
+	at user.frame.MainFrame.connect(MainFrame.java:733)
+	at user.frame.MainFrame$18.run(MainFrame.java:1307)
+	at java.lang.Thread.run(Unknown Source)
+cn.com.modbusmonitor.core.exception.ModbusMointorException: no PCANBasic_JNI in java.library.path
+	at user.can.CanDriverAdapterTime.connect(CanDriverAdapterTime.java:235)
+	at cn.com.modbusmonitor.core.service.impl.ModbusDeviceController.connect(ModbusDeviceController.java:664)
+	at user.frame.MainFrame.connect(MainFrame.java:733)
+	at user.frame.MainFrame$18.run(MainFrame.java:1307)
+	at java.lang.Thread.run(Unknown Source)
+cn.com.modbusmonitor.core.exception.ModbusMointorException: no PCANBasic_JNI in java.library.path
+	at user.can.CanDriverAdapterTime.connect(CanDriverAdapterTime.java:235)
+	at cn.com.modbusmonitor.core.service.impl.ModbusDeviceController.connect(ModbusDeviceController.java:664)
+	at user.frame.MainFrame.connect(MainFrame.java:733)
+	at user.frame.MainFrame$18.run(MainFrame.java:1307)
+	at java.lang.Thread.run(Unknown Source)

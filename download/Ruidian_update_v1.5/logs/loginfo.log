@@ -1,0 +1,8 @@
+2020-05-24 14:17:17,244  INFO [Thread-16] (LogUtil.java:22) - no PCANBasic_JNI in java.library.path : null
+2020-05-24 14:17:17,247  INFO [Thread-16] (LogUtil.java:22) - ????,????
+2020-05-24 14:30:51,522  INFO [Thread-16] (LogUtil.java:22) - no PCANBasic_JNI in java.library.path : null
+2020-05-24 14:30:51,524  INFO [Thread-16] (LogUtil.java:22) - ????,????
+2020-05-24 14:31:02,891  INFO [Thread-16] (LogUtil.java:22) - no PCANBasic_JNI in java.library.path : null
+2020-05-24 14:31:02,892  INFO [Thread-16] (LogUtil.java:22) - ????,????
+2020-05-24 14:31:25,201  INFO [Thread-16] (LogUtil.java:22) - no PCANBasic_JNI in java.library.path : null
+2020-05-24 14:31:25,203  INFO [Thread-16] (LogUtil.java:22) - ????,????
