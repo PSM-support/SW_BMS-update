@@ -1,1 +1,11 @@
 BMS Online Update Software  V1.5
+cn.com.modbusmonitor.core.exception.ModbusMointorException: ?????????????????
+	at cn.com.modbusmonitor.core.service.impl.ModbusDeviceController.connect(ModbusDeviceController.java:670)
+	at user.frame.MainFrame.connect(MainFrame.java:733)
+	at user.frame.MainFrame$18.run(MainFrame.java:1307)
+	at java.lang.Thread.run(Unknown Source)
+cn.com.modbusmonitor.core.exception.ModbusMointorException: ?????????????????
+	at cn.com.modbusmonitor.core.service.impl.ModbusDeviceController.connect(ModbusDeviceController.java:670)
+	at user.frame.MainFrame.connect(MainFrame.java:733)
+	at user.frame.MainFrame$18.run(MainFrame.java:1307)
+	at java.lang.Thread.run(Unknown Source)
