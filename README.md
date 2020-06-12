@@ -14,9 +14,9 @@ https://www.peak-system.com/quick/DrvSetup
 
 https://github.com/PSM-support/SW_BMS-update/tree/master/download/Ruidian_update_v1.5.rar
 
-**Step 3** : extract *.rar* file into your working folder. 
+**Step 3** : extract *Ruidian_update_v1.5.rar* finto your working folder. 
 
-7-zip is recommended as free GNU archiver link (https://www.7-zip.org/a/7z1900-x64.exe)
+7-zip (Direct Download: https://www.7-zip.org/a/7z1900-x64.exe) is a GNU archiver is recommended for *RAR*. 
 
 **Step 4** : Run *javaw.exe* then follow instruction thereafter. 
 
@@ -27,6 +27,6 @@ https://github.com/PSM-support/SW_BMS-update/tree/master/download/Ruidian_update
 ### Page 2 : update the firmware to the latest version
 ![SM snapshot](/pic/SU_BMS-P2.png)
 
-### Prompt at the start up
+### Prompt at the start up 
 ![SM snapshot](/pic/SU_BMS-note1.png)
-
+Please close other PCAN connection before proceeding.
