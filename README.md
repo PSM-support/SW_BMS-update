@@ -1,10 +1,11 @@
 # SW_BMS-update 
-Sunwoda BMS update v.1.5 (Windows 7 or later) for PSM
+Sunwoda BMS update v.1.5 (Windows) for PSM
 
-The Sunwoda BMS update software uses CAN for communication with the controller module. PCAN-USB is supported by default. 
+The Sunwoda BMS update software uses CAN interface for communication with the PSM controller module. 
+PCAN-USB is supported by default. 
 
 ![PCAN-USB](https://www.peak-system.com/uploads/tx_commerce/rte/RTEmagicC_PCAN-USB_Group_2014.jpg.jpg)
-*pic from PCAN manufacture's web site*
+*pic from manufacture's web site*
 
 **Step 1** : download and install PCAN-USB driver for Windows
 
