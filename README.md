@@ -21,6 +21,8 @@ https://github.com/PSM-support/SW_BMS-update/tree/master/download/Ruidian_update
 
 **Step 4** : Run *javaw.exe* then follow instruction thereafter. 
 
+It is important to exit the software before physically disconnecting the CAN cable. 
+
 ## User interface
 ### Page 1 : to change the number of battery connected
 ![SM snapshot](/pic/SU_BMS-P1.png)
