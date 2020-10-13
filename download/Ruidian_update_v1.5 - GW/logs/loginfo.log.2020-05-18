@@ -1,0 +1,5 @@
+2020-05-18 10:07:50,535  INFO [main] (LogUtil.java:26) - java.io.FileNotFoundException: D:\Ruidian_update_exe\template\BCMU_HuYong-V11.10-20190820.xls (系统找不到指定的路径。)
+2020-05-18 10:08:26,767  INFO [main] (LogUtil.java:26) - jxl.read.biff.BiffException: Unable to recognize OLE stream
+2020-05-18 10:08:32,118  INFO [main] (LogUtil.java:26) - jxl.read.biff.BiffException: Unable to recognize OLE stream
+2020-05-18 10:08:52,024  INFO [main] (LogUtil.java:22) - 连接失败
+2020-05-18 10:08:52,024  INFO [main] (LogUtil.java:22) - 发生异常,连接失败

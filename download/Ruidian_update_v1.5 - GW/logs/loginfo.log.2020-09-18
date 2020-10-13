@@ -1,0 +1,66 @@
+2020-09-18 20:29:13,076  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 01 00   ,reviceId = 0 ,time = 2020-09-18 20:29:13.007
+2020-09-18 20:29:13,084  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:13.084
+2020-09-18 20:29:14,195  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:14.195
+2020-09-18 20:29:14,195  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:14.195
+2020-09-18 20:29:15,303  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:15.303
+2020-09-18 20:29:15,804  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 01 00   ,reviceId = 0 ,time = 2020-09-18 20:29:15.804
+2020-09-18 20:29:15,817  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:15.817
+2020-09-18 20:29:16,927  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:16.927
+2020-09-18 20:29:16,927  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:16.927
+2020-09-18 20:29:18,037  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:18.037
+2020-09-18 20:29:18,538  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 01 00   ,reviceId = 0 ,time = 2020-09-18 20:29:18.538
+2020-09-18 20:29:18,542  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:18.542
+2020-09-18 20:29:19,650  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:19.650
+2020-09-18 20:29:19,650  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:19.650
+2020-09-18 20:29:20,759  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:20.759
+2020-09-18 20:29:21,760  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 F6 03 0C 00   ,reviceId = 0 ,time = 2020-09-18 20:29:21.760
+2020-09-18 20:29:21,867  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:21.867
+2020-09-18 20:29:22,976  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:22.976
+2020-09-18 20:29:22,976  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:22.976
+2020-09-18 20:29:24,086  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:24.086
+2020-09-18 20:29:24,086  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:24.086
+2020-09-18 20:29:25,198  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:25.198
+2020-09-18 20:29:25,204  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 F6 03 0C 00   ,reviceId = 0 ,time = 2020-09-18 20:29:25.204
+2020-09-18 20:29:25,308  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:25.308
+2020-09-18 20:29:26,420  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:26.420
+2020-09-18 20:29:26,420  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:26.420
+2020-09-18 20:29:27,533  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:27.533
+2020-09-18 20:29:27,533  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:27.533
+2020-09-18 20:29:28,645  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:28.645
+2020-09-18 20:29:28,650  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 F6 03 0C 00   ,reviceId = 0 ,time = 2020-09-18 20:29:28.650
+2020-09-18 20:29:28,756  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:28.756
+2020-09-18 20:29:29,865  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:29.865
+2020-09-18 20:29:29,865  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:29.865
+2020-09-18 20:29:30,975  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:30.975
+2020-09-18 20:29:30,975  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:30.975
+2020-09-18 20:29:32,087  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:32.087
+2020-09-18 20:29:32,092  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 11   ,reviceId = 1250640d ,time = 2020-09-18 20:29:32.092
+2020-09-18 20:29:33,201  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640d ,time = 2020-09-18 20:29:33.201
+2020-09-18 20:29:33,201  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 11   ,reviceId = 1250640d ,time = 2020-09-18 20:29:33.201
+2020-09-18 20:29:34,314  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640d ,time = 2020-09-18 20:29:34.314
+2020-09-18 20:29:34,315  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 B2 04 04 00   ,reviceId = 0 ,time = 2020-09-18 20:29:34.315
+2020-09-18 20:29:34,420  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:34.420
+2020-09-18 20:29:35,535  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:35.535
+2020-09-18 20:29:35,535  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:35.535
+2020-09-18 20:29:36,649  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:36.649
+2020-09-18 20:29:36,649  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:36.649
+2020-09-18 20:29:37,761  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:37.761
+2020-09-18 20:29:37,766  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 B2 04 04 00   ,reviceId = 0 ,time = 2020-09-18 20:29:37.766
+2020-09-18 20:29:37,871  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:37.871
+2020-09-18 20:29:38,983  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:38.983
+2020-09-18 20:29:38,983  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:38.983
+2020-09-18 20:29:40,093  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:40.093
+2020-09-18 20:29:40,093  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:40.093
+2020-09-18 20:29:41,203  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:41.203
+2020-09-18 20:29:41,208  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 B2 04 04 00   ,reviceId = 0 ,time = 2020-09-18 20:29:41.208
+2020-09-18 20:29:41,315  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:41.315
+2020-09-18 20:29:42,426  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:42.426
+2020-09-18 20:29:42,426  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:42.426
+2020-09-18 20:29:43,536  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:43.536
+2020-09-18 20:29:43,536  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-09-18 20:29:43.536
+2020-09-18 20:29:44,649  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640c ,time = 2020-09-18 20:29:44.649
+2020-09-18 20:29:44,655  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 09   ,reviceId = 1250640d ,time = 2020-09-18 20:29:44.655
+2020-09-18 20:29:45,766  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640d ,time = 2020-09-18 20:29:45.766
+2020-09-18 20:29:45,766  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 09   ,reviceId = 1250640d ,time = 2020-09-18 20:29:45.766
+2020-09-18 20:29:46,876  INFO [Thread-16] (LogUtil.java:22) - recive ? datas =null   ,reviceId = 1250640d ,time = 2020-09-18 20:29:46.876
+2020-09-18 20:29:46,876  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 00 FF   ,reviceId = 0 ,time = 2020-09-18 20:29:46.876
