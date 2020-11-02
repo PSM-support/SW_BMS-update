@@ -1,7 +1,8 @@
 # SW_BMS-update 
-Sunwoda BMS update v.1.5 for PSM
+Sunwoda BMS update v.1.5 (Windows) for PSM
 
-The Sunwoda BMS update software use CAN for communication with the controller module. PCAN-USB is supported by default. 
+The Sunwoda BMS update software uses CAN interface for communication with the PSM controller module. 
+PCAN-USB is supported by default. 
 
 ![PCAN-USB](https://www.peak-system.com/uploads/tx_commerce/rte/RTEmagicC_PCAN-USB_Group_2014.jpg.jpg)
 *pic from manufacture's web site*
@@ -14,11 +15,13 @@ https://www.peak-system.com/quick/DrvSetup
 
 https://github.com/PSM-support/SW_BMS-update/tree/master/download/Ruidian_update_v1.5.rar
 
-**Step 3** : extract *Ruidian_update_v1.5.rar* finto your working folder. 
+**Step 3** : extract *Ruidian_update_v1.5.rar* into your working folder. 
 
 7-zip (Direct Download: https://www.7-zip.org/a/7z1900-x64.exe) is a GNU archiver is recommended for *RAR*. 
 
 **Step 4** : Run *javaw.exe* then follow instruction thereafter. 
+
+##### It is important to exit the software before physically disconnecting the CAN cable. 
 
 ## User interface
 ### Page 1 : to change the number of battery connected
@@ -29,4 +32,5 @@ https://github.com/PSM-support/SW_BMS-update/tree/master/download/Ruidian_update
 
 ### Prompt at the start up 
 ![SM snapshot](/pic/SU_BMS-note1.png)
+
 Please close other PCAN connection before proceeding.
