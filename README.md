@@ -29,6 +29,7 @@ https://github.com/PSM-support/SW_BMS-update/tree/master/download/Ruidian_update
 
 ### Page 2 : update the firmware to the latest version
 ![SM snapshot](/pic/SU_BMS-P2.png)
+**Note for P01 controller: the BMS system will automatically shut down when click the "Refresh" button,  please turn on the controller again before click "Update ..". 
 
 ### Prompt at the start up 
 ![SM snapshot](/pic/SU_BMS-note1.png)
