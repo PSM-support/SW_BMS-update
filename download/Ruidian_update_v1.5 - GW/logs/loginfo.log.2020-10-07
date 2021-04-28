@@ -1,0 +1,207 @@
+2020-10-07 11:05:05,040  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 01 00   ,reviceId = 0 ,time = 2020-10-07 11:05:04.919
+2020-10-07 11:05:05,050  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:05:05.050
+2020-10-07 11:05:05,058  INFO [Thread-16] (LogUtil.java:22) - recive ?01   ,reviceId = 1250640c ,time = 2020-10-07 11:05:05.058
+2020-10-07 11:05:06,060  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 F6 03 0C 00   ,reviceId = 0 ,time = 2020-10-07 11:05:06.060
+2020-10-07 11:05:06,165  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:05:06.165
+2020-10-07 11:05:06,171  INFO [Thread-16] (LogUtil.java:22) - recive ?03   ,reviceId = 1250640c ,time = 2020-10-07 11:05:06.171
+2020-10-07 11:05:06,177  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 11   ,reviceId = 1250640d ,time = 2020-10-07 11:05:06.177
+2020-10-07 11:05:06,194  INFO [Thread-16] (LogUtil.java:22) - recive ?F6 03 0C 5A 5A 00 03 00 20 00 04 00 60 00 0C 06 02   ,reviceId = 1250640d ,time = 2020-10-07 11:05:06.194
+2020-10-07 11:05:06,195  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 B2 04 04 00   ,reviceId = 0 ,time = 2020-10-07 11:05:06.195
+2020-10-07 11:05:06,300  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:05:06.300
+2020-10-07 11:05:06,307  INFO [Thread-16] (LogUtil.java:22) - recive ?03   ,reviceId = 1250640c ,time = 2020-10-07 11:05:06.307
+2020-10-07 11:05:06,312  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 09   ,reviceId = 1250640d ,time = 2020-10-07 11:05:06.312
+2020-10-07 11:05:06,321  INFO [Thread-16] (LogUtil.java:22) - recive ?B2 04 04 5A 5A 00 2D 08 04   ,reviceId = 1250640d ,time = 2020-10-07 11:05:06.321
+2020-10-07 11:05:06,322  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 00 FF   ,reviceId = 0 ,time = 2020-10-07 11:05:06.322
+2020-10-07 11:05:18,031  INFO [Thread-20] (LogUtil.java:22) - (send:464500b)C1 00 01 00   ,reviceId = 0 ,time = 2020-10-07 11:05:18.031
+2020-10-07 11:05:18,037  INFO [Thread-20] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:05:18.037
+2020-10-07 11:05:18,045  INFO [Thread-20] (LogUtil.java:22) - recive ?01   ,reviceId = 1250640c ,time = 2020-10-07 11:05:18.045
+2020-10-07 11:05:19,047  INFO [Thread-20] (LogUtil.java:22) - (send:464500b)C3 01 02 00 F6 03 0C 00   ,reviceId = 0 ,time = 2020-10-07 11:05:19.047
+2020-10-07 11:05:19,154  INFO [Thread-20] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:05:19.154
+2020-10-07 11:05:19,160  INFO [Thread-20] (LogUtil.java:22) - recive ?04   ,reviceId = 1250640c ,time = 2020-10-07 11:05:19.160
+2020-10-07 11:05:19,166  INFO [Thread-20] (LogUtil.java:22) - (send:464500e)46 00 F6 03 0C 5A 5A 00   ,reviceId = 0 ,time = 2020-10-07 11:05:19.166
+2020-10-07 11:05:19,171  INFO [Thread-20] (LogUtil.java:22) - (send:464500e)06 06 04 00 20 00 04 00   ,reviceId = 0 ,time = 2020-10-07 11:05:19.171
+2020-10-07 11:05:19,176  INFO [Thread-20] (LogUtil.java:22) - (send:464500e)85 0C 80 00 10 F0 29   ,reviceId = 0 ,time = 2020-10-07 11:05:19.176
+2020-10-07 11:05:19,180  INFO [Thread-20] (LogUtil.java:22) - (send:464500b)C3 01 01 00 F6 03 0C 00   ,reviceId = 0 ,time = 2020-10-07 11:05:19.180
+2020-10-07 11:05:19,285  INFO [Thread-20] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:05:19.285
+2020-10-07 11:05:19,292  INFO [Thread-20] (LogUtil.java:22) - recive ?03   ,reviceId = 1250640c ,time = 2020-10-07 11:05:19.292
+2020-10-07 11:05:19,297  INFO [Thread-20] (LogUtil.java:22) - (send:1064500d)E0 00 11   ,reviceId = 1250640d ,time = 2020-10-07 11:05:19.297
+2020-10-07 11:05:19,314  INFO [Thread-20] (LogUtil.java:22) - recive ?F6 03 0C 5A 5A 00 04 00 20 00 04 00 80 00 10 F0 29   ,reviceId = 1250640d ,time = 2020-10-07 11:05:19.314
+2020-10-07 11:05:19,315  INFO [Thread-20] (LogUtil.java:22) - (send:464500b)C3 01 02 00 B2 04 04 00   ,reviceId = 0 ,time = 2020-10-07 11:05:19.314
+2020-10-07 11:05:19,420  INFO [Thread-20] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:05:19.420
+2020-10-07 11:05:19,526  INFO [Thread-20] (LogUtil.java:22) - recive ?04   ,reviceId = 1250640c ,time = 2020-10-07 11:05:19.526
+2020-10-07 11:05:19,532  INFO [Thread-20] (LogUtil.java:22) - (send:464500e)46 00 B2 04 04 5A 5A 00   ,reviceId = 0 ,time = 2020-10-07 11:05:19.532
+2020-10-07 11:05:19,537  INFO [Thread-20] (LogUtil.java:22) - (send:464500e)83 06 3D 08 0E   ,reviceId = 0 ,time = 2020-10-07 11:05:19.537
+2020-10-07 11:05:19,543  INFO [Thread-20] (LogUtil.java:22) - (send:464500b)C3 01 01 00 B2 04 04 00   ,reviceId = 0 ,time = 2020-10-07 11:05:19.543
+2020-10-07 11:05:19,648  INFO [Thread-20] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:05:19.648
+2020-10-07 11:05:19,654  INFO [Thread-20] (LogUtil.java:22) - recive ?03   ,reviceId = 1250640c ,time = 2020-10-07 11:05:19.654
+2020-10-07 11:05:19,659  INFO [Thread-20] (LogUtil.java:22) - (send:1064500d)E0 00 09   ,reviceId = 1250640d ,time = 2020-10-07 11:05:19.659
+2020-10-07 11:05:19,668  INFO [Thread-20] (LogUtil.java:22) - recive ?B2 04 04 5A 5A 00 3D 08 0E   ,reviceId = 1250640d ,time = 2020-10-07 11:05:19.668
+2020-10-07 11:05:19,668  INFO [Thread-20] (LogUtil.java:22) - (send:464500b)C1 00 00 FF   ,reviceId = 0 ,time = 2020-10-07 11:05:19.668
+2020-10-07 11:05:24,509  INFO [main] (LogUtil.java:22) - (send:9e0ffff)01 04 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:24.509
+2020-10-07 11:05:24,514  INFO [main] (LogUtil.java:22) - (send:9e0ffff)01 04 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:24.514
+2020-10-07 11:05:24,519  INFO [main] (LogUtil.java:22) - (send:9e0ffff)01 06 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:24.519
+2020-10-07 11:05:24,524  INFO [main] (LogUtil.java:22) - (send:9e0ffff)01 06 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:24.524
+2020-10-07 11:05:25,029  INFO [main] (LogUtil.java:22) - (send:9e0ffff)01 02 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:25.029
+2020-10-07 11:05:25,034  INFO [main] (LogUtil.java:22) - (send:9e0ffff)01 02 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:25.034
+2020-10-07 11:05:25,248  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:25.248
+2020-10-07 11:05:26,252  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:26.252
+2020-10-07 11:05:27,259  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:27.259
+2020-10-07 11:05:28,265  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:28.265
+2020-10-07 11:05:29,271  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:29.271
+2020-10-07 11:05:30,277  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:30.277
+2020-10-07 11:05:31,284  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:31.284
+2020-10-07 11:05:32,289  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:32.289
+2020-10-07 11:05:33,294  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:33.294
+2020-10-07 11:05:34,300  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:34.300
+2020-10-07 11:05:35,305  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:35.305
+2020-10-07 11:05:36,311  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:36.311
+2020-10-07 11:05:37,317  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:37.317
+2020-10-07 11:05:38,323  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:38.323
+2020-10-07 11:05:39,327  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:39.327
+2020-10-07 11:05:40,333  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:40.333
+2020-10-07 11:05:41,337  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:41.337
+2020-10-07 11:05:42,344  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:42.344
+2020-10-07 11:05:43,348  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:43.348
+2020-10-07 11:05:44,353  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:44.353
+2020-10-07 11:05:45,359  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:45.359
+2020-10-07 11:05:46,364  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:46.364
+2020-10-07 11:05:47,368  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:47.368
+2020-10-07 11:05:48,372  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:48.372
+2020-10-07 11:05:49,377  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:49.377
+2020-10-07 11:05:50,383  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:50.383
+2020-10-07 11:05:51,389  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:51.389
+2020-10-07 11:05:52,395  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:52.395
+2020-10-07 11:05:53,402  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:53.402
+2020-10-07 11:05:54,407  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:54.407
+2020-10-07 11:05:55,413  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:55.413
+2020-10-07 11:05:56,418  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:56.418
+2020-10-07 11:05:57,425  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:57.425
+2020-10-07 11:05:58,431  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:58.431
+2020-10-07 11:05:59,436  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:05:59.436
+2020-10-07 11:06:00,442  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:00.442
+2020-10-07 11:06:01,447  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:01.447
+2020-10-07 11:06:02,453  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:02.453
+2020-10-07 11:06:03,458  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:03.458
+2020-10-07 11:06:04,463  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:04.463
+2020-10-07 11:06:05,468  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:05.468
+2020-10-07 11:06:06,475  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:06.475
+2020-10-07 11:06:07,480  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:07.480
+2020-10-07 11:06:08,487  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:08.487
+2020-10-07 11:06:09,493  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:09.493
+2020-10-07 11:06:10,499  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:10.499
+2020-10-07 11:06:11,506  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:11.506
+2020-10-07 11:06:12,511  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:12.511
+2020-10-07 11:06:13,517  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:13.517
+2020-10-07 11:06:14,523  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:14.523
+2020-10-07 11:06:15,529  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:15.529
+2020-10-07 11:06:16,533  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:16.533
+2020-10-07 11:06:17,538  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:17.538
+2020-10-07 11:06:18,543  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:18.543
+2020-10-07 11:06:19,548  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:19.548
+2020-10-07 11:06:20,554  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:20.554
+2020-10-07 11:06:21,560  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:21.560
+2020-10-07 11:06:22,566  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:22.566
+2020-10-07 11:06:23,571  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:23.571
+2020-10-07 11:06:24,577  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:24.577
+2020-10-07 11:06:25,584  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:25.584
+2020-10-07 11:06:26,588  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:26.588
+2020-10-07 11:06:27,594  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:27.594
+2020-10-07 11:06:28,600  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:28.600
+2020-10-07 11:06:29,606  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:29.606
+2020-10-07 11:06:30,611  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:30.611
+2020-10-07 11:06:31,617  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:31.617
+2020-10-07 11:06:32,621  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:32.621
+2020-10-07 11:06:33,627  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:33.627
+2020-10-07 11:06:34,632  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:34.632
+2020-10-07 11:06:35,637  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:35.637
+2020-10-07 11:06:36,643  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:36.643
+2020-10-07 11:06:37,647  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:37.647
+2020-10-07 11:06:38,652  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:38.652
+2020-10-07 11:06:39,659  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:39.659
+2020-10-07 11:06:40,664  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:40.664
+2020-10-07 11:06:41,670  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:41.670
+2020-10-07 11:06:42,676  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:42.676
+2020-10-07 11:06:43,680  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:43.680
+2020-10-07 11:06:44,686  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:44.686
+2020-10-07 11:06:45,692  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:45.692
+2020-10-07 11:06:46,697  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:46.697
+2020-10-07 11:06:47,703  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:47.703
+2020-10-07 11:06:48,709  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:48.709
+2020-10-07 11:06:49,713  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:49.713
+2020-10-07 11:06:50,719  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:50.719
+2020-10-07 11:06:51,725  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:51.725
+2020-10-07 11:06:52,730  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:52.730
+2020-10-07 11:06:53,736  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:53.736
+2020-10-07 11:06:54,741  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:54.741
+2020-10-07 11:06:55,747  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:55.747
+2020-10-07 11:06:56,753  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:56.753
+2020-10-07 11:06:57,759  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:57.759
+2020-10-07 11:06:58,764  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:58.764
+2020-10-07 11:06:59,768  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:06:59.768
+2020-10-07 11:07:00,774  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:00.774
+2020-10-07 11:07:01,780  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:01.780
+2020-10-07 11:07:02,785  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:02.785
+2020-10-07 11:07:03,791  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:03.791
+2020-10-07 11:07:04,797  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:04.797
+2020-10-07 11:07:05,804  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:05.804
+2020-10-07 11:07:06,809  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:06.809
+2020-10-07 11:07:07,815  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:07.815
+2020-10-07 11:07:08,822  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:08.822
+2020-10-07 11:07:09,827  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:09.827
+2020-10-07 11:07:10,832  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:10.832
+2020-10-07 11:07:11,838  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:11.838
+2020-10-07 11:07:12,843  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:12.843
+2020-10-07 11:07:13,849  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:13.849
+2020-10-07 11:07:14,853  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:14.853
+2020-10-07 11:07:15,858  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:15.858
+2020-10-07 11:07:16,863  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:16.863
+2020-10-07 11:07:17,870  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:17.870
+2020-10-07 11:07:18,875  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:18.875
+2020-10-07 11:07:19,880  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:19.880
+2020-10-07 11:07:20,884  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:20.884
+2020-10-07 11:07:21,889  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:21.889
+2020-10-07 11:07:22,903  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:22.903
+2020-10-07 11:07:23,909  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:23.909
+2020-10-07 11:07:24,916  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:24.916
+2020-10-07 11:07:25,920  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:25.920
+2020-10-07 11:07:26,924  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:26.924
+2020-10-07 11:07:27,930  INFO [Thread-17] (LogUtil.java:22) - (send:9e6ffff)00 00 00 00 00 00 00 00   ,reviceId = 0 ,time = 2020-10-07 11:07:27.930
+2020-10-07 11:07:28,690  INFO [Thread-21] (LogUtil.java:22) - (send:464500b)C1 00 01 00   ,reviceId = 0 ,time = 2020-10-07 11:07:28.689
+2020-10-07 11:07:28,696  INFO [Thread-21] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:07:28.696
+2020-10-07 11:07:28,702  INFO [Thread-21] (LogUtil.java:22) - recive ?01   ,reviceId = 1250640c ,time = 2020-10-07 11:07:28.702
+2020-10-07 11:07:29,702  INFO [Thread-21] (LogUtil.java:22) - (send:464500b)C3 01 02 00 F6 03 0C 00   ,reviceId = 0 ,time = 2020-10-07 11:07:29.702
+2020-10-07 11:07:29,808  INFO [Thread-21] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:07:29.808
+2020-10-07 11:07:29,816  INFO [Thread-21] (LogUtil.java:22) - recive ?04   ,reviceId = 1250640c ,time = 2020-10-07 11:07:29.816
+2020-10-07 11:07:29,822  INFO [Thread-21] (LogUtil.java:22) - (send:464500e)46 00 F6 03 0C 5A 5A 00   ,reviceId = 0 ,time = 2020-10-07 11:07:29.822
+2020-10-07 11:07:29,826  INFO [Thread-21] (LogUtil.java:22) - (send:464500e)06 06 03 00 20 00 04 00   ,reviceId = 0 ,time = 2020-10-07 11:07:29.826
+2020-10-07 11:07:29,831  INFO [Thread-21] (LogUtil.java:22) - (send:464500e)85 0C 60 00 0C 06 02   ,reviceId = 0 ,time = 2020-10-07 11:07:29.831
+2020-10-07 11:07:29,836  INFO [Thread-21] (LogUtil.java:22) - (send:464500b)C3 01 01 00 F6 03 0C 00   ,reviceId = 0 ,time = 2020-10-07 11:07:29.836
+2020-10-07 11:07:29,942  INFO [Thread-21] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:07:29.942
+2020-10-07 11:07:29,949  INFO [Thread-21] (LogUtil.java:22) - recive ?03   ,reviceId = 1250640c ,time = 2020-10-07 11:07:29.949
+2020-10-07 11:07:29,954  INFO [Thread-21] (LogUtil.java:22) - (send:1064500d)E0 00 11   ,reviceId = 1250640d ,time = 2020-10-07 11:07:29.954
+2020-10-07 11:07:29,969  INFO [Thread-21] (LogUtil.java:22) - recive ?F6 03 0C 5A 5A 00 03 00 20 00 04 00 60 00 0C 06 02   ,reviceId = 1250640d ,time = 2020-10-07 11:07:29.969
+2020-10-07 11:07:29,969  INFO [Thread-21] (LogUtil.java:22) - (send:464500b)C3 01 02 00 B2 04 04 00   ,reviceId = 0 ,time = 2020-10-07 11:07:29.969
+2020-10-07 11:07:30,075  INFO [Thread-21] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:07:30.075
+2020-10-07 11:07:30,083  INFO [Thread-21] (LogUtil.java:22) - recive ?04   ,reviceId = 1250640c ,time = 2020-10-07 11:07:30.083
+2020-10-07 11:07:30,089  INFO [Thread-21] (LogUtil.java:22) - (send:464500e)46 00 B2 04 04 5A 5A 00   ,reviceId = 0 ,time = 2020-10-07 11:07:30.089
+2020-10-07 11:07:30,095  INFO [Thread-21] (LogUtil.java:22) - (send:464500e)83 06 2D 08 04   ,reviceId = 0 ,time = 2020-10-07 11:07:30.095
+2020-10-07 11:07:30,101  INFO [Thread-21] (LogUtil.java:22) - (send:464500b)C3 01 01 00 B2 04 04 00   ,reviceId = 0 ,time = 2020-10-07 11:07:30.101
+2020-10-07 11:07:30,206  INFO [Thread-21] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 11:07:30.206
+2020-10-07 11:07:30,211  INFO [Thread-21] (LogUtil.java:22) - recive ?03   ,reviceId = 1250640c ,time = 2020-10-07 11:07:30.211
+2020-10-07 11:07:30,217  INFO [Thread-21] (LogUtil.java:22) - (send:1064500d)E0 00 09   ,reviceId = 1250640d ,time = 2020-10-07 11:07:30.217
+2020-10-07 11:07:30,227  INFO [Thread-21] (LogUtil.java:22) - recive ?B2 04 04 5A 5A 00 2D 08 04   ,reviceId = 1250640d ,time = 2020-10-07 11:07:30.227
+2020-10-07 11:07:30,227  INFO [Thread-21] (LogUtil.java:22) - (send:464500b)C1 00 00 FF   ,reviceId = 0 ,time = 2020-10-07 11:07:30.227
+2020-10-07 22:18:58,234  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 01 00   ,reviceId = 0 ,time = 2020-10-07 22:18:58.116
+2020-10-07 22:18:58,243  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 22:18:58.243
+2020-10-07 22:18:58,248  INFO [Thread-16] (LogUtil.java:22) - recive ?01   ,reviceId = 1250640c ,time = 2020-10-07 22:18:58.248
+2020-10-07 22:18:59,249  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 F6 03 0C 00   ,reviceId = 0 ,time = 2020-10-07 22:18:59.249
+2020-10-07 22:18:59,355  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 22:18:59.355
+2020-10-07 22:18:59,361  INFO [Thread-16] (LogUtil.java:22) - recive ?03   ,reviceId = 1250640c ,time = 2020-10-07 22:18:59.361
+2020-10-07 22:18:59,366  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 11   ,reviceId = 1250640d ,time = 2020-10-07 22:18:59.366
+2020-10-07 22:18:59,381  INFO [Thread-16] (LogUtil.java:22) - recive ?F6 03 0C 5A 5A 00 03 00 20 00 04 00 60 00 0C 06 02   ,reviceId = 1250640d ,time = 2020-10-07 22:18:59.381
+2020-10-07 22:18:59,382  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 B2 04 04 00   ,reviceId = 0 ,time = 2020-10-07 22:18:59.382
+2020-10-07 22:18:59,488  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2020-10-07 22:18:59.488
+2020-10-07 22:18:59,494  INFO [Thread-16] (LogUtil.java:22) - recive ?03   ,reviceId = 1250640c ,time = 2020-10-07 22:18:59.494
+2020-10-07 22:18:59,500  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 09   ,reviceId = 1250640d ,time = 2020-10-07 22:18:59.500
+2020-10-07 22:18:59,508  INFO [Thread-16] (LogUtil.java:22) - recive ?B2 04 04 5A 5A 00 2D 08 04   ,reviceId = 1250640d ,time = 2020-10-07 22:18:59.508
+2020-10-07 22:18:59,509  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 00 FF   ,reviceId = 0 ,time = 2020-10-07 22:18:59.509
