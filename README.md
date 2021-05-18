@@ -1,7 +1,7 @@
 # SW_BMS-update 
 Sunwoda BMS update v.1.5 (Windows) for PSM
 
-**For BCMU 1.16** please use **SW_Modbus-software** to initialize the default parameters:  
+_**For BCMU 1.16** please use **SW_Modbus-software** to initialize the default parameters_:  
 
 https://github.com/PSM-support/SW_Modbus-software
 
