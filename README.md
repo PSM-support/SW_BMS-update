@@ -15,7 +15,7 @@ https://www.peak-system.com/quick/DrvSetup
 
 **Step 2** : download the Sunwoda BMS update PC software
 
-https://github.com/PSM-support/SW_BMS-update/tree/master/download/Ruidian_update_v1.5.rar
+https://github.com/PSM-support/SW_BMS-update/tree/master/download/Ruidian_update_v1.5.7z
 
 **Step 3** : extract *Ruidian_update_v1.5.rar* into your working folder. 
 
