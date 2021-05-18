@@ -1,0 +1,66 @@
+2021-05-13 11:47:26,841  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 01 00   ,reviceId = 0 ,time = 2021-05-13 11:47:26.772
+2021-05-13 11:47:26,851  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:26.851
+2021-05-13 11:47:27,961  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:27.961
+2021-05-13 11:47:27,961  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:27.961
+2021-05-13 11:47:29,074  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:29.074
+2021-05-13 11:47:29,574  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 01 00   ,reviceId = 0 ,time = 2021-05-13 11:47:29.574
+2021-05-13 11:47:29,579  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:29.579
+2021-05-13 11:47:30,690  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:30.690
+2021-05-13 11:47:30,690  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:30.690
+2021-05-13 11:47:31,802  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:31.802
+2021-05-13 11:47:32,303  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 01 00   ,reviceId = 0 ,time = 2021-05-13 11:47:32.303
+2021-05-13 11:47:32,309  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:32.309
+2021-05-13 11:47:33,420  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:33.420
+2021-05-13 11:47:33,420  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:33.420
+2021-05-13 11:47:34,534  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:34.534
+2021-05-13 11:47:35,535  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 F6 03 0C 00   ,reviceId = 0 ,time = 2021-05-13 11:47:35.535
+2021-05-13 11:47:35,644  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:35.644
+2021-05-13 11:47:36,756  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:36.756
+2021-05-13 11:47:36,756  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:36.756
+2021-05-13 11:47:37,869  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:37.869
+2021-05-13 11:47:37,869  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:37.869
+2021-05-13 11:47:38,981  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:38.981
+2021-05-13 11:47:38,987  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 F6 03 0C 00   ,reviceId = 0 ,time = 2021-05-13 11:47:38.986
+2021-05-13 11:47:39,093  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:39.093
+2021-05-13 11:47:40,204  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:40.204
+2021-05-13 11:47:40,204  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:40.204
+2021-05-13 11:47:41,318  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:41.318
+2021-05-13 11:47:41,318  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:41.318
+2021-05-13 11:47:42,432  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:42.432
+2021-05-13 11:47:42,438  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 F6 03 0C 00   ,reviceId = 0 ,time = 2021-05-13 11:47:42.438
+2021-05-13 11:47:42,545  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:42.545
+2021-05-13 11:47:43,658  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:43.658
+2021-05-13 11:47:43,658  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:43.658
+2021-05-13 11:47:44,768  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:44.768
+2021-05-13 11:47:44,768  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:44.768
+2021-05-13 11:47:45,881  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:45.881
+2021-05-13 11:47:45,887  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 11   ,reviceId = 1250640d ,time = 2021-05-13 11:47:45.887
+2021-05-13 11:47:46,998  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640d ,time = 2021-05-13 11:47:46.998
+2021-05-13 11:47:46,998  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 11   ,reviceId = 1250640d ,time = 2021-05-13 11:47:46.998
+2021-05-13 11:47:48,110  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640d ,time = 2021-05-13 11:47:48.110
+2021-05-13 11:47:48,110  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 B2 04 04 00   ,reviceId = 0 ,time = 2021-05-13 11:47:48.110
+2021-05-13 11:47:48,217  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:48.217
+2021-05-13 11:47:49,330  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:49.330
+2021-05-13 11:47:49,330  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:49.330
+2021-05-13 11:47:50,443  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:50.443
+2021-05-13 11:47:50,443  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:50.443
+2021-05-13 11:47:51,556  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:51.556
+2021-05-13 11:47:51,562  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 B2 04 04 00   ,reviceId = 0 ,time = 2021-05-13 11:47:51.562
+2021-05-13 11:47:51,669  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:51.669
+2021-05-13 11:47:52,781  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:52.781
+2021-05-13 11:47:52,781  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:52.781
+2021-05-13 11:47:53,894  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:53.894
+2021-05-13 11:47:53,894  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:53.894
+2021-05-13 11:47:55,005  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:55.005
+2021-05-13 11:47:55,010  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C3 01 01 00 B2 04 04 00   ,reviceId = 0 ,time = 2021-05-13 11:47:55.010
+2021-05-13 11:47:55,117  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:55.117
+2021-05-13 11:47:56,229  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:56.229
+2021-05-13 11:47:56,229  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:56.229
+2021-05-13 11:47:57,342  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:57.342
+2021-05-13 11:47:57,342  INFO [Thread-16] (LogUtil.java:22) - (send:1064500c)20 00 01   ,reviceId = 1250640c ,time = 2021-05-13 11:47:57.342
+2021-05-13 11:47:58,454  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640c ,time = 2021-05-13 11:47:58.454
+2021-05-13 11:47:58,461  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 09   ,reviceId = 1250640d ,time = 2021-05-13 11:47:58.461
+2021-05-13 11:47:59,572  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640d ,time = 2021-05-13 11:47:59.572
+2021-05-13 11:47:59,572  INFO [Thread-16] (LogUtil.java:22) - (send:1064500d)E0 00 09   ,reviceId = 1250640d ,time = 2021-05-13 11:47:59.572
+2021-05-13 11:48:00,685  INFO [Thread-16] (LogUtil.java:22) - recive £º datas =null   ,reviceId = 1250640d ,time = 2021-05-13 11:48:00.685
+2021-05-13 11:48:00,685  INFO [Thread-16] (LogUtil.java:22) - (send:464500b)C1 00 00 FF   ,reviceId = 0 ,time = 2021-05-13 11:48:00.685
