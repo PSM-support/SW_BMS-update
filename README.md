@@ -1,7 +1,7 @@
 # SW_BMS-update 
 Sunwoda BMS update v.1.5 (Windows) for PSM
 
-_[NEW] For the **BCMU 1.16/4.04** release please use **SW_Modbus-software** to initialize the default parameters: https://github.com/PSM-support/SW_Modbus-software [send your request to support@esol.tech]_
+_[NEW] For the **BCMU 1.16/4.04** release please use **SW_Modbus-software** to initialize the default parameters: https://github.com/PSM-support/SW_Modbus-software [internal available, send your request to support@esol.tech]_
 
 The Sunwoda BMS update software uses CAN interface for communication with the PSM controller module. 
 PCAN-USB is supported by default. 
